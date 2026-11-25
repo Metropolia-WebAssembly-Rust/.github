@@ -93,21 +93,13 @@ You are not expected to know every technology before starting an assignment. The
 
 ## Questions and support
 
-Questions about assignment requirements, technical problems, and course topics should be raised in the organisation's public Q&A repository.
+Questions about assignment requirements, technical problems, and course topics should be raised in the organisation's Q&A repository.
 
-**[Questions & Answers – GitHub Discussions](https://github.com/Metropolia-WebAssembly-Rust/questions-and-answers)**
+**[Questions & Answers – GitHub Discussions](https://github.com/orgs/Metropolia-WebAssembly-Rust/discussions)**
 
 Please search existing discussions before creating a new question. Keeping discussions public allows everyone to benefit from shared answers and clarifications.
 
 For course administration and matters that are not suitable for public discussion, use the communication channels provided through Metropolia.
-
-## About this organisation
-
-This GitHub organisation hosts the source code, starter repositories, assignments, and supporting materials for the WebAssembly with Rust course at Metropolia University of Applied Sciences.
-
-The repositories are primarily intended for enrolled students. Some supporting materials and examples may also be useful to other developers interested in Rust and WebAssembly.
-
-**Explore the repositories, experiment with the code, and build something with Rust and WebAssembly.**
 
 ## Contact
 
